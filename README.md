@@ -1,1 +1,4 @@
-"# DrugDataset" 
+train: /content/Datasettest/train.txt
+val: /content/Datasettest/val.txt
+nc: 42
+names:  ['Brand Name','Mental Health','Hypertension/Blood Pressure','Antibiotics','Gastrointestinal','Vitamins & Minerals','Diabetes','Allergies','Cough & Cold','Inflammation','Pain-&-Fever-Reliever','Pain-Reliever','Nausea & Vomiting','Fungal Infections','Cholesterol','Cardiovascular','Constipation','Asthma','Diarrheal','Muscle Relaxant','Antiseptic','Asthma & Allergy','Asthma & COPD','Menstrual','Herbal Preparation','Parasites','Urological treatment','Neuropathic Pain','Neurological/Brain Disease','Migraine' ,'Nasal Decongestant','Multi-Purpose Medication','Menstrual','Cancer Treatment','Thyroid Hormones','Birth Control Pills','Viral Flu','Antiplatelet Medications','Anaemia','Arthritis', Miscellaneous']
