@@ -1,4 +1,4 @@
-[drug dataset screenshot](https://i.postimg.cc/Dyn564rf/Drugdatasetbyanikdebnath.jpg)
+![Drug Dataset by Anik Debnath](https://i.postimg.cc/Dyn564rf/Drugdatasetbyanikdebnath.jpg)
 
 train: /content/Datasettest/train.txt
 val: /content/Datasettest/val.txt
